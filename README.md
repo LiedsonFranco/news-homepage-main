@@ -63,5 +63,5 @@ I learned how to use **css variables** and css **max** function.
 ```
 ### Useful resources
 
-- [Css variables](https://www.w3schools.com/css/css3_variables.asp) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Css variables](https://www.w3schools.com/css/css3_variables.asp)
 - [Css max](https://www.w3schools.com/cssref/func_max.php)
