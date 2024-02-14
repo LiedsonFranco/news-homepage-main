@@ -32,15 +32,8 @@ Your users should be able to:
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 ## Screenshot
-
-**Challenge Screenshot**
-![challenge desktop screenshot](./design/desktop-preview.jpg)
 **My solution Screenshot**
 ![desktop screenshot](./screenshots/desktop.png)
-**Challenge Screenshot**
-![challenge mobile screenshot](./design/mobile-design.jpg)
-**My solution Screenshot**
-![mobile screenshot](./screenshots/mobile.png.png)
 
 ## My process
 
